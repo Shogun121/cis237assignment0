@@ -3,6 +3,8 @@
 
 ## Author
 
+Robert Cooley
+
 ## Description
 
 You are to follow the below steps to practice using GIT. This will help prepare you for submitting all of your assignments for this class.
@@ -32,4 +34,8 @@ If you need some help on how to write proper Markdown for the README file, you c
 
 ## Outside Resources Used
 
+none
+
 ## Known Problems, Issues, And/Or Errors in the Program
+
+None
